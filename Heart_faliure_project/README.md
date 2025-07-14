@@ -55,7 +55,7 @@ The app takes patient data as input and predicts if the patient is at risk.
 
 ## 📦 File Structure
 
-```bash
+
 📁 heart-failure-prediction/
 │
 ├── app.py                    # Gradio interface
@@ -72,3 +72,4 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
