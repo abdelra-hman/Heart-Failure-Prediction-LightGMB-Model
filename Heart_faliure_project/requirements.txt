@@ -1,7 +1,7 @@
+streamlit
 lightgbm
 scikit-learn
 pandas
 numpy
 gradio
 joblib
-
