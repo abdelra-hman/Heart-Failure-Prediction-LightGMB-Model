@@ -9,7 +9,7 @@ scaler = joblib.load("scaler.pkl")
 st.set_page_config(page_title="Heart Failure Prediction", layout="centered")
 
 st.title("❤️ Heart Failure Prediction")
-st.markdown("أدخل بيانات المريض لتتنبأ بحدوث الوفاة.")
+
 
 age = st.number_input("Age", 1, 120, 60)
 anaemia = st.selectbox("Anaemia", ["No", "Yes"])
